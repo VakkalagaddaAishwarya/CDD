@@ -1,2 +1,3 @@
 this is a doc to learn about git gitbash 
 learning about commands in gitbash
+learning about cmd
